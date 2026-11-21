@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Proba obavijesti",
-    "url": "https://oxia.hr/proba-obavijesti-404",
-    "icon": "https://icons.duckduckgo.com/ip3/oxia.hr.ico",
-    "slug": "proba-obavijesti",
-    "status": "down",
-    "uptime": "60.10%",
-    "uptimeDay": "60.10%",
-    "uptimeWeek": "60.10%",
-    "uptimeMonth": "60.10%",
-    "uptimeYear": "60.10%",
-    "time": 39,
-    "timeDay": 39,
-    "timeWeek": 39,
-    "timeMonth": 39,
-    "timeYear": 39,
-    "dailyMinutesDown": {
-      "2026-11-21": 0
-    }
   }
 ]
