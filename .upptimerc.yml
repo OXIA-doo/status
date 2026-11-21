@@ -4,6 +4,8 @@ repo: status
 sites:
   - name: OXIA
     url: https://oxia.hr
+  - name: Proba obavijesti
+    url: https://oxia.hr/proba-obavijesti-404
 
 status-website:
   baseUrl: /status
